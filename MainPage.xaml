@@ -27,7 +27,7 @@
                 x:Name="BuscarBtn"
                 Text="Buscar"
                 Clicked="BuscarBtn_Clicked"
-                HorizontalOptions="Fill"aaaa />
+                HorizontalOptions="Fill" />
         </VerticalStackLayout>
     </ScrollView>
 
