@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "D:\\2DS\\PAM\\ApiPostagem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F8E4615F-3CDF-467D-B88D-0E61059E4F29}|ApiPostagens.csproj|d:\\2ds\\pam\\apipostagem\\view\\postagensview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E4615F-3CDF-467D-B88D-0E61059E4F29}|ApiPostagens.csproj|solutionrelative:view\\postagensview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E4615F-3CDF-467D-B88D-0E61059E4F29}|ApiPostagens.csproj|d:\\2ds\\pam\\apipostagem\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F8E4615F-3CDF-467D-B88D-0E61059E4F29}|ApiPostagens.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E4615F-3CDF-467D-B88D-0E61059E4F29}|ApiPostagens.csproj|d:\\2ds\\pam\\apipostagem\\view\\postagensview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F8E4615F-3CDF-467D-B88D-0E61059E4F29}|ApiPostagens.csproj|solutionrelative:view\\postagensview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F8E4615F-3CDF-467D-B88D-0E61059E4F29}|ApiPostagens.csproj|d:\\2ds\\pam\\apipostagem\\viewmodels\\postagemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8E4615F-3CDF-467D-B88D-0E61059E4F29}|ApiPostagens.csproj|solutionrelative:viewmodels\\postagemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8E4615F-3CDF-467D-B88D-0E61059E4F29}|ApiPostagens.csproj|d:\\2ds\\pam\\apipostagem\\services\\postagensservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8E4615F-3CDF-467D-B88D-0E61059E4F29}|ApiPostagens.csproj|solutionrelative:services\\postagensservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F8E4615F-3CDF-467D-B88D-0E61059E4F29}|ApiPostagens.csproj|d:\\2ds\\pam\\apipostagem\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8E4615F-3CDF-467D-B88D-0E61059E4F29}|ApiPostagens.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E4615F-3CDF-467D-B88D-0E61059E4F29}|ApiPostagens.csproj|d:\\2ds\\pam\\apipostagem\\services\\postagensservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E4615F-3CDF-467D-B88D-0E61059E4F29}|ApiPostagens.csproj|solutionrelative:services\\postagensservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8E4615F-3CDF-467D-B88D-0E61059E4F29}|ApiPostagens.csproj|d:\\2ds\\pam\\apipostagem\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -26,11 +38,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostagensView.xaml.cs",
+              "DocumentMoniker": "D:\\2DS\\PAM\\ApiPostagem\\View\\PostagensView.xaml.cs",
+              "RelativeDocumentMoniker": "View\\PostagensView.xaml.cs",
+              "ToolTip": "D:\\2DS\\PAM\\ApiPostagem\\View\\PostagensView.xaml.cs",
+              "RelativeToolTip": "View\\PostagensView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:27:20.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\2DS\\PAM\\ApiPostagem\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "D:\\2DS\\PAM\\ApiPostagem\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-27T01:22:07.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "PostagensView.xaml",
+              "DocumentMoniker": "D:\\2DS\\PAM\\ApiPostagem\\View\\PostagensView.xaml",
+              "RelativeDocumentMoniker": "View\\PostagensView.xaml",
+              "ToolTip": "D:\\2DS\\PAM\\ApiPostagem\\View\\PostagensView.xaml",
+              "RelativeToolTip": "View\\PostagensView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-27T01:12:57.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "D:\\2DS\\PAM\\ApiPostagem\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "MainPage.xaml.cs",
@@ -43,33 +94,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "PostagensServices.cs",
               "DocumentMoniker": "D:\\2DS\\PAM\\ApiPostagem\\Services\\PostagensServices.cs",
               "RelativeDocumentMoniker": "Services\\PostagensServices.cs",
               "ToolTip": "D:\\2DS\\PAM\\ApiPostagem\\Services\\PostagensServices.cs",
               "RelativeToolTip": "Services\\PostagensServices.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T00:30:10.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "PostagemViewModel.cs",
               "DocumentMoniker": "D:\\2DS\\PAM\\ApiPostagem\\ViewModels\\PostagemViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\PostagemViewModel.cs",
               "ToolTip": "D:\\2DS\\PAM\\ApiPostagem\\ViewModels\\PostagemViewModel.cs",
               "RelativeToolTip": "ViewModels\\PostagemViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T00:53:30.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "D:\\2DS\\PAM\\ApiPostagem\\MainPage.xaml",
               "RelativeDocumentMoniker": "MainPage.xaml",

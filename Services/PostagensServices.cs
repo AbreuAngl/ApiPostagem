@@ -10,7 +10,7 @@ namespace ApiPostagens.Services
 {
     public class PostagensServices
     {
-         async public Task<List<Postagem>>GetPostagens()
+        async public Task<List<Postagem>> GetPostagens()
         {
             List<Postagem> postagens = new List<Postagem>();
             string URI = "https://jsonplaceholder.typicode.com/posts";

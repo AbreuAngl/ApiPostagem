@@ -6,10 +6,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Input;
 
 namespace ApiPostagens.ViewModels
 {
-    public class PostagensViewModel : ObservableObject
+    public partial class PostagensViewModel : ObservableObject
     {
         [ObservableProperty]
         public int id;
@@ -19,11 +20,17 @@ namespace ApiPostagens.ViewModels
         string title;
         [ObservableProperty]
         string body;
+        public ICommand CarregarPostagensCommand => new Command(async () => CarregarPostagens());
 
         public async void CarregarPostagens()
         {
             List<Postagem> Listar = new List<Postagem>();
             Listar = await new PostagensServices().GetPostagens();
+            Id = Listar[0].Id;
+            Title = Listar[0].Title;
+            Body = Listar[0].Body;
         }
+
+            
     }
 }
