@@ -21,8 +21,6 @@ namespace ApiPostagens.Services
             {
                 string conteudo = await responseMessage.Content.ReadAsStringAsync();
                 postagens = JsonConvert.DeserializeObject<List<Postagem>>(conteudo);
-
-
             }
             return (postagens);
         }

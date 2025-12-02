@@ -178,3 +178,18 @@ D:\Pietro 2DS\ApiPostagens\ApiPostagens\obj\Debug\net8.0-windows10.0.19041.0\win
 D:\Pietro 2DS\ApiPostagens\ApiPostagens\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 D:\Pietro 2DS\ApiPostagens\ApiPostagens\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 D:\Pietro 2DS\ApiPostagens\ApiPostagens\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\2DS\PAM\ApiPostagem\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ApiPostagens.csproj.AssemblyReference.cache
+D:\2DS\PAM\ApiPostagem\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+D:\2DS\PAM\ApiPostagem\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+D:\2DS\PAM\ApiPostagem\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+D:\2DS\PAM\ApiPostagem\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+D:\2DS\PAM\ApiPostagem\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+D:\2DS\PAM\ApiPostagem\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+D:\2DS\PAM\ApiPostagem\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+D:\2DS\PAM\ApiPostagem\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+D:\2DS\PAM\ApiPostagem\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\2DS\PAM\ApiPostagem\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+D:\2DS\PAM\ApiPostagem\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ApiPostagens.GeneratedMSBuildEditorConfig.editorconfig
+D:\2DS\PAM\ApiPostagem\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ApiPostagens.dll
+D:\2DS\PAM\ApiPostagem\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\ApiPostagens.dll
+D:\2DS\PAM\ApiPostagem\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ApiPostagens.pdb

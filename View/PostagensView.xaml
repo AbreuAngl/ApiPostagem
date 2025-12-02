@@ -12,11 +12,29 @@
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
         <Label 
-            Text"{Binding Body}"
+            Text="{Binding Body}"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
         <Button
             Text="Carregar"
             Command="{Binding CarregarPostagensCommand}"/>
+
+        <CollectionView ItemsSource="{Binding Listar}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <VerticalStackLayout
+                        <Label
+                       Text="{Binding Id}"
+                       FontAttributes="Bold" />
+                        <Label 
+                       Text="{Binding Titles}"
+                       FontAttributes="Bold" />
+                        <Label 
+                       Text="{Binding Body}"
+                       FontAttributes="Bold" />
+                    </VerticalStackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
     </VerticalStackLayout>
 </ContentView>
